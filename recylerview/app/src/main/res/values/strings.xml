@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recylerview</string>
+    <string name="title_activity_bark_theme">BarkTheme</string>
+    <string name="title_activity_bark_home_content">BarkHomeContent</string>
+</resources>
